@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiComercioWeb", "MiComercioWeb\MiComercioWeb.csproj", "{D72BAA32-CA3B-489D-8FCB-55E485283CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{27FD613D-EABB-4658-9946-4B92BA22A38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{C54DB1D6-6C81-41AF-AECD-47B0FFD9DC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D72BAA32-CA3B-489D-8FCB-55E485283CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72BAA32-CA3B-489D-8FCB-55E485283CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72BAA32-CA3B-489D-8FCB-55E485283CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72BAA32-CA3B-489D-8FCB-55E485283CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FD613D-EABB-4658-9946-4B92BA22A38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FD613D-EABB-4658-9946-4B92BA22A38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FD613D-EABB-4658-9946-4B92BA22A38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FD613D-EABB-4658-9946-4B92BA22A38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54DB1D6-6C81-41AF-AECD-47B0FFD9DC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54DB1D6-6C81-41AF-AECD-47B0FFD9DC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54DB1D6-6C81-41AF-AECD-47B0FFD9DC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54DB1D6-6C81-41AF-AECD-47B0FFD9DC28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {662A2ABA-EC37-423B-A5E7-376176C3C9D7}
+	EndGlobalSection
+EndGlobal
